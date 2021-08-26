@@ -1,8 +1,8 @@
 {
-    "moduleName" : "tripandmaneuvermodule",
-    "targetModuleImage" : "tripandmaneuvermodule:0.0.1",
+    "moduleName" : "samplemonitormodule",
+    "targetModuleImage" : "samplemonitormodule:0.0.1",
     "currentModuleImage" : "",
-    "moduleTarFileName" : "tripandmaneuvermodule.tar",
+    "moduleTarFileName" : "samplemonitormodule.tar",
     "moduleConfigFileName" : "newModuleConfigSection.txt"
 }
 

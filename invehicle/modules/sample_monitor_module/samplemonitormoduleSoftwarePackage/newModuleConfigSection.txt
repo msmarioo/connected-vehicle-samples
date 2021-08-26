@@ -5,7 +5,7 @@
     "status": "running",
     "restartPolicy": "always",
     "settings": {
-        "image": "tripuimodule:0.0.1",
+        "image": "samplemonitormodule:0.0.1",
         "createOptions": "{}"
     }
 }

@@ -1,7 +1,7 @@
 # Compact version of Python
 FROM python:3.8-slim-buster
 
-# Install necessary libraries for communication with the MQTT Broker and Azure Maps
+# Install necessary libraries for communication with the MQTT Broker and REST APIs
 RUN pip install --upgrade pip
 RUN pip install --no-cache-dir requests paho-mqtt
 
