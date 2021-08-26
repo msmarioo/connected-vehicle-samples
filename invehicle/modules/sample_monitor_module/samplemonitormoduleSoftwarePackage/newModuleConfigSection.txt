@@ -1,0 +1,11 @@
+{
+    "version": "1.0",
+    "type": "docker",
+    "imagePullPolicy": "never",
+    "status": "running",
+    "restartPolicy": "always",
+    "settings": {
+        "image": "tripuimodule:0.0.1",
+        "createOptions": "{}"
+    }
+}

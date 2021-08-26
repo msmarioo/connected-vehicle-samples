@@ -1,0 +1,8 @@
+{
+    "moduleName" : "tripandmaneuvermodule",
+    "targetModuleImage" : "tripandmaneuvermodule:0.0.1",
+    "currentModuleImage" : "",
+    "moduleTarFileName" : "tripandmaneuvermodule.tar",
+    "moduleConfigFileName" : "newModuleConfigSection.txt"
+}
+
